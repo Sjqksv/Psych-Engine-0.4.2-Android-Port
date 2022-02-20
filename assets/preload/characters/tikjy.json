@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tikjy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				270
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tikjy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tikjy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				241,
+				130
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tikjy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tikjy down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tikjy",
+	"position": [
+		-180,
+		80
+	],
+	"healthicon": "tikjy",
+	"flip_x": false,
+	"healthbar_colors": [
+		104,
+		204,
+		38
+	],
+	"camera_position": [
+		-10,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

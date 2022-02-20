@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jeb idle telekinesis",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jeb up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				55
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jeb right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jeb left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jeb down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/jeb-tele",
+	"position": [
+		-140,
+		60
+	],
+	"healthicon": "yeb",
+	"flip_x": false,
+	"healthbar_colors": [
+		66,
+		66,
+		66
+	],
+	"camera_position": [
+		240,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
