@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="swap_NOTE_assets.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="214" height="215"/>
+	<SubTexture name="blue0001" x="214" y="0" width="214" height="215"/>
+	<SubTexture name="blue0002" x="428" y="0" width="214" height="215"/>
+	<SubTexture name="blue0003" x="642" y="0" width="214" height="215"/>
+	<SubTexture name="blue0004" x="856" y="0" width="214" height="215"/>
+	<SubTexture name="green0000" x="1070" y="0" width="215" height="215"/>
+	<SubTexture name="green0001" x="1285" y="0" width="215" height="215"/>
+	<SubTexture name="green0002" x="1500" y="0" width="215" height="215"/>
+	<SubTexture name="green0003" x="1715" y="0" width="215" height="215"/>
+	<SubTexture name="green0004" x="0" y="215" width="215" height="215"/>
+	<SubTexture name="purple0000" x="215" y="215" width="214" height="215"/>
+	<SubTexture name="purple0001" x="429" y="215" width="214" height="215"/>
+	<SubTexture name="purple0002" x="643" y="215" width="214" height="215"/>
+	<SubTexture name="purple0003" x="857" y="215" width="214" height="215"/>
+	<SubTexture name="purple0004" x="1071" y="215" width="214" height="215"/>
+	<SubTexture name="red0000" x="1285" y="215" width="215" height="215"/>
+	<SubTexture name="red0001" x="1500" y="215" width="215" height="215"/>
+	<SubTexture name="red0002" x="1715" y="215" width="215" height="215"/>
+	<SubTexture name="red0003" x="0" y="430" width="215" height="215"/>
+	<SubTexture name="red0004" x="215" y="430" width="215" height="215"/>
+</TextureAtlas>
