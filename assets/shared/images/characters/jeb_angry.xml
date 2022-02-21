@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jeb_angry.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jeb maddown0000" x="0" y="0" width="1083" height="843" frameX="0" frameY="0" frameWidth="1106" frameHeight="898"/>
+	<SubTexture name="jeb maddown0001" x="1083" y="0" width="1106" height="896" frameX="0" frameY="-2" frameWidth="1106" frameHeight="898"/>
+	<SubTexture name="jeb maddown0002" x="2189" y="0" width="1031" height="715" frameX="-52" frameY="-95" frameWidth="1106" frameHeight="898"/>
+	<SubTexture name="jeb maddown0003" x="3220" y="0" width="1064" height="810" frameX="-39" frameY="-78" frameWidth="1106" frameHeight="898"/>
+	<SubTexture name="jeb maddown0004" x="4284" y="0" width="1064" height="759" frameX="-39" frameY="-78" frameWidth="1106" frameHeight="898"/>
+	<SubTexture name="jeb maddown0005" x="5348" y="0" width="1064" height="775" frameX="-39" frameY="-78" frameWidth="1106" frameHeight="898"/>
+	<SubTexture name="jeb madidle0000" x="6412" y="0" width="639" height="657" frameX="-28" frameY="-29" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0001" x="6412" y="0" width="639" height="657" frameX="-28" frameY="-29" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0002" x="7051" y="0" width="643" height="666" frameX="-19" frameY="-20" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0003" x="7051" y="0" width="643" height="666" frameX="-19" frameY="-20" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0004" x="0" y="896" width="654" height="679" frameX="-8" frameY="-7" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0005" x="0" y="896" width="654" height="679" frameX="-8" frameY="-7" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0006" x="654" y="896" width="657" height="680" frameX="-5" frameY="-6" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0007" x="654" y="896" width="657" height="680" frameX="-5" frameY="-6" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0008" x="1311" y="896" width="662" height="686" frameX="0" frameY="0" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0009" x="1973" y="896" width="662" height="686" frameX="0" frameY="0" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0010" x="1973" y="896" width="662" height="686" frameX="0" frameY="0" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0011" x="1973" y="896" width="662" height="686" frameX="0" frameY="0" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0012" x="1973" y="896" width="662" height="686" frameX="0" frameY="0" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madidle0013" x="1973" y="896" width="662" height="686" frameX="0" frameY="0" frameWidth="667" frameHeight="686"/>
+	<SubTexture name="jeb madleft0000" x="2635" y="896" width="1078" height="995" frameX="-1" frameY="0" frameWidth="1115" frameHeight="995"/>
+	<SubTexture name="jeb madleft0001" x="3713" y="896" width="1070" height="995" frameX="0" frameY="0" frameWidth="1115" frameHeight="995"/>
+	<SubTexture name="jeb madleft0002" x="4783" y="896" width="1065" height="973" frameX="-50" frameY="0" frameWidth="1115" frameHeight="995"/>
+	<SubTexture name="jeb madleft0003" x="5848" y="896" width="1060" height="973" frameX="-50" frameY="0" frameWidth="1115" frameHeight="995"/>
+	<SubTexture name="jeb madleft0004" x="5848" y="896" width="1060" height="973" frameX="-50" frameY="0" frameWidth="1115" frameHeight="995"/>
+	<SubTexture name="jeb madleft0005" x="5848" y="896" width="1060" height="973" frameX="-50" frameY="0" frameWidth="1115" frameHeight="995"/>
+	<SubTexture name="jeb madright0000" x="0" y="1891" width="1516" height="856" frameX="0" frameY="-6" frameWidth="1516" frameHeight="862"/>
+	<SubTexture name="jeb madright0001" x="1516" y="1891" width="1404" height="856" frameX="-69" frameY="-6" frameWidth="1516" frameHeight="862"/>
+	<SubTexture name="jeb madright0002" x="2920" y="1891" width="1294" height="787" frameX="-138" frameY="0" frameWidth="1516" frameHeight="862"/>
+	<SubTexture name="jeb madright0003" x="4214" y="1891" width="1206" height="731" frameX="-207" frameY="-48" frameWidth="1516" frameHeight="862"/>
+	<SubTexture name="jeb madright0004" x="5420" y="1891" width="1151" height="731" frameX="-262" frameY="-48" frameWidth="1516" frameHeight="862"/>
+	<SubTexture name="jeb madright0005" x="5420" y="1891" width="1151" height="731" frameX="-262" frameY="-48" frameWidth="1516" frameHeight="862"/>
+	<SubTexture name="jeb madright0006" x="5420" y="1891" width="1151" height="731" frameX="-262" frameY="-48" frameWidth="1516" frameHeight="862"/>
+	<SubTexture name="jeb madright0007" x="6571" y="1891" width="1151" height="731" frameX="-262" frameY="-48" frameWidth="1516" frameHeight="862"/>
+	<SubTexture name="jeb madup0000" x="0" y="2747" width="1012" height="923" frameX="0" frameY="-6" frameWidth="1016" frameHeight="929"/>
+	<SubTexture name="jeb madup0001" x="1012" y="2747" width="1012" height="927" frameX="-4" frameY="0" frameWidth="1016" frameHeight="929"/>
+	<SubTexture name="jeb madup0002" x="2024" y="2747" width="884" height="783" frameX="-117" frameY="-92" frameWidth="1016" frameHeight="929"/>
+	<SubTexture name="jeb madup0003" x="2908" y="2747" width="872" height="780" frameX="-116" frameY="-79" frameWidth="1016" frameHeight="929"/>
+	<SubTexture name="jeb madup0004" x="2908" y="2747" width="872" height="780" frameX="-116" frameY="-79" frameWidth="1016" frameHeight="929"/>
+	<SubTexture name="jeb madup0005" x="2908" y="2747" width="872" height="780" frameX="-116" frameY="-79" frameWidth="1016" frameHeight="929"/>
+	<SubTexture name="jeb madup0006" x="2908" y="2747" width="872" height="780" frameX="-116" frameY="-79" frameWidth="1016" frameHeight="929"/>
+</TextureAtlas>

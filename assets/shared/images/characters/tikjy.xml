@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tikjy.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tikjy down0000" x="0" y="0" width="916" height="383" frameX="0" frameY="-200" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0001" x="916" y="0" width="916" height="367" frameX="-2" frameY="-195" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0002" x="1832" y="0" width="898" height="432" frameX="-18" frameY="-146" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0003" x="2730" y="0" width="855" height="551" frameX="-62" frameY="0" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0004" x="3585" y="0" width="872" height="496" frameX="-45" frameY="-55" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0005" x="4457" y="0" width="882" height="497" frameX="-35" frameY="-54" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0006" x="5339" y="0" width="884" height="502" frameX="-33" frameY="-55" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0007" x="6223" y="0" width="885" height="497" frameX="-32" frameY="-54" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0008" x="7108" y="0" width="884" height="502" frameX="-33" frameY="-55" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0009" x="6223" y="0" width="885" height="497" frameX="-32" frameY="-54" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0010" x="7108" y="0" width="884" height="502" frameX="-33" frameY="-55" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0011" x="6223" y="0" width="885" height="497" frameX="-32" frameY="-54" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0012" x="7108" y="0" width="884" height="502" frameX="-33" frameY="-55" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy down0013" x="6223" y="0" width="885" height="497" frameX="-32" frameY="-54" frameWidth="918" frameHeight="583"/>
+	<SubTexture name="tikjy idle0000" x="0" y="551" width="980" height="660" frameX="-1" frameY="0" frameWidth="982" frameHeight="672"/>
+	<SubTexture name="tikjy idle0001" x="980" y="551" width="982" height="672"/>
+	<SubTexture name="tikjy idle0002" x="0" y="551" width="980" height="660" frameX="-1" frameY="0" frameWidth="982" frameHeight="672"/>
+	<SubTexture name="tikjy idle0003" x="980" y="551" width="982" height="672"/>
+	<SubTexture name="tikjy idle0004" x="0" y="551" width="980" height="660" frameX="-1" frameY="0" frameWidth="982" frameHeight="672"/>
+	<SubTexture name="tikjy idle0005" x="980" y="551" width="982" height="672"/>
+	<SubTexture name="tikjy idle0006" x="0" y="551" width="980" height="660" frameX="-1" frameY="0" frameWidth="982" frameHeight="672"/>
+	<SubTexture name="tikjy idle0007" x="980" y="551" width="982" height="672"/>
+	<SubTexture name="tikjy idle0008" x="0" y="551" width="980" height="660" frameX="-1" frameY="0" frameWidth="982" frameHeight="672"/>
+	<SubTexture name="tikjy idle0009" x="980" y="551" width="982" height="672"/>
+	<SubTexture name="tikjy idle0010" x="0" y="551" width="980" height="660" frameX="-1" frameY="0" frameWidth="982" frameHeight="672"/>
+	<SubTexture name="tikjy idle0011" x="980" y="551" width="982" height="672"/>
+	<SubTexture name="tikjy idle0012" x="0" y="551" width="980" height="660" frameX="-1" frameY="0" frameWidth="982" frameHeight="672"/>
+	<SubTexture name="tikjy idle0013" x="980" y="551" width="982" height="672"/>
+	<SubTexture name="tikjy left0000" x="1962" y="551" width="860" height="729" frameX="0" frameY="-48" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0001" x="2822" y="551" width="858" height="732" frameX="-3" frameY="-44" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0002" x="3680" y="551" width="846" height="738" frameX="-26" frameY="-39" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0003" x="4526" y="551" width="825" height="759" frameX="-56" frameY="-17" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0004" x="5351" y="551" width="813" height="777" frameX="-72" frameY="0" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0005" x="6164" y="551" width="822" height="776" frameX="-63" frameY="0" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0006" x="6986" y="551" width="821" height="761" frameX="-62" frameY="-16" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0007" x="0" y="1328" width="825" height="755" frameX="-60" frameY="-21" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0008" x="825" y="1328" width="823" height="754" frameX="-62" frameY="-23" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0009" x="1648" y="1328" width="825" height="755" frameX="-60" frameY="-21" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0010" x="825" y="1328" width="823" height="754" frameX="-62" frameY="-23" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0011" x="1648" y="1328" width="825" height="755" frameX="-60" frameY="-21" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0012" x="825" y="1328" width="823" height="754" frameX="-62" frameY="-23" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy left0013" x="1648" y="1328" width="825" height="755" frameX="-60" frameY="-21" frameWidth="885" frameHeight="777"/>
+	<SubTexture name="tikjy right0000" x="2473" y="1328" width="983" height="679" frameX="-21" frameY="-103" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0001" x="3456" y="1328" width="985" height="672" frameX="-25" frameY="-102" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0002" x="4441" y="1328" width="993" height="727" frameX="-5" frameY="-30" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0003" x="5434" y="1328" width="990" height="766" frameX="0" frameY="0" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0004" x="6424" y="1328" width="984" height="742" frameX="-7" frameY="-17" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0005" x="0" y="2094" width="987" height="749" frameX="-7" frameY="-17" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0006" x="987" y="2094" width="987" height="742" frameX="-7" frameY="-17" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0007" x="0" y="2094" width="987" height="749" frameX="-7" frameY="-17" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0008" x="987" y="2094" width="987" height="742" frameX="-7" frameY="-17" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0009" x="0" y="2094" width="987" height="749" frameX="-7" frameY="-17" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0010" x="987" y="2094" width="987" height="742" frameX="-7" frameY="-17" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0011" x="0" y="2094" width="987" height="749" frameX="-7" frameY="-17" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0012" x="987" y="2094" width="987" height="742" frameX="-7" frameY="-17" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy right0013" x="0" y="2094" width="987" height="749" frameX="-7" frameY="-17" frameWidth="1010" frameHeight="782"/>
+	<SubTexture name="tikjy up0000" x="1974" y="2094" width="1171" height="936" frameX="-48" frameY="0" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0001" x="3145" y="2094" width="1175" height="937" frameX="-44" frameY="-5" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0002" x="4320" y="2094" width="1271" height="899" frameX="-8" frameY="-37" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0003" x="5591" y="2094" width="1284" height="871" frameX="-6" frameY="-71" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0004" x="6875" y="2094" width="1291" height="857" frameX="0" frameY="-79" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0005" x="0" y="3031" width="1288" height="859" frameX="-4" frameY="-83" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0006" x="1288" y="3031" width="1290" height="853" frameX="0" frameY="-83" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0007" x="0" y="3031" width="1288" height="859" frameX="-4" frameY="-83" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0008" x="1288" y="3031" width="1290" height="853" frameX="0" frameY="-83" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0009" x="0" y="3031" width="1288" height="859" frameX="-4" frameY="-83" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0010" x="1288" y="3031" width="1290" height="853" frameX="0" frameY="-83" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0011" x="0" y="3031" width="1288" height="859" frameX="-4" frameY="-83" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0012" x="1288" y="3031" width="1290" height="853" frameX="0" frameY="-83" frameWidth="1292" frameHeight="942"/>
+	<SubTexture name="tikjy up0013" x="0" y="3031" width="1288" height="859" frameX="-4" frameY="-83" frameWidth="1292" frameHeight="942"/>
+</TextureAtlas>
