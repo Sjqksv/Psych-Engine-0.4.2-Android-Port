@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="epicbg.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dumb fucking shit instance 10000" x="0" y="0" width="2323" height="870" frameX="0" frameY="0" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10001" x="2323" y="0" width="2323" height="867" frameX="0" frameY="-2" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10002" x="4646" y="0" width="2323" height="867" frameX="0" frameY="-1" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10003" x="0" y="870" width="2323" height="879" frameX="0" frameY="-2" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10004" x="2323" y="870" width="2323" height="870" frameX="0" frameY="-1" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10005" x="4646" y="870" width="2323" height="869" frameX="0" frameY="-1" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10006" x="0" y="1749" width="2323" height="866" frameX="0" frameY="-2" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10007" x="2323" y="1749" width="2323" height="866" frameX="0" frameY="-1" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10008" x="4646" y="1749" width="2323" height="865" frameX="0" frameY="0" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10009" x="0" y="2615" width="2323" height="864" frameX="0" frameY="-1" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10010" x="2323" y="2615" width="2323" height="865" frameX="0" frameY="-1" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10011" x="4646" y="2615" width="2323" height="865" frameX="0" frameY="-2" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10012" x="0" y="3480" width="2323" height="869" frameX="0" frameY="-1" frameWidth="2323" frameHeight="881"/>
+	<SubTexture name="dumb fucking shit instance 10013" x="2323" y="3480" width="2323" height="868" frameX="0" frameY="-1" frameWidth="2323" frameHeight="881"/>
+</TextureAtlas>
